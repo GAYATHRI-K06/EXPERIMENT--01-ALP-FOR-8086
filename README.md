@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-# Name : Abhishek Kannan M
-# Roll no 212224040007
+# Name : GAYATHRI K
+# Roll no 212223230061
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
